@@ -1,0 +1,8 @@
+# віртуальне оточення
+.venv/
+ml/.venv/
+# службові файли Python та Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+ml/.venv/*
